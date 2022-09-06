@@ -1,18 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paragraph</title>
-</head>
-<body>
-    <p>This a a Paragraph </p>
-    <p>This is <br> a Paragraph </p>
-    <hr> 
-    <h1> This is a 1st heading </h1>
-    <p>This a a Paragraph </p>
-    <hr> 
-    
-</body>
-</html>
+HSC ICT Chapter 4 Tutorial 3 : HTML | Paragraph 
+
+use - 
+1. What is paragraph tag ? describe  more .
+2. Line Break Tag 
+3. Horizontal Rule .
+
+Hi, 
+I am Sanjida Haque Saria .
+welcome to my channel "EASY ICT SOLUTION 4  YOU". This channel contains only technological related tutorials. 
+Most of the videos in bengali language.
+Please subscribe to this channel "EASY ICT SOLUTION 4 YOU".
